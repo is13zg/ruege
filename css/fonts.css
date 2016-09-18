@@ -1,0 +1,43 @@
+
+@font-face {
+    font-family: 'arial-reg';
+    src: url('../fonts/arial-reg/arial-reg.eot');
+    src: url('../fonts/arial-reg/arial-reg.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/arial-reg/arial-reg.woff') format('woff'),
+    url('../fonts/arial-reg/arial-reg.ttf') format('truetype'),
+    url('../fonts/arial-reg/arial-reg.svg#pf_beausans_prothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&subset=cyrillic,cyrillic-ext,latin-ext';
+@font-face {
+    font-family: 'arial-bold';
+    src: url('../fonts/arial-bold/arial-bold.eot');
+    src: url('../fonts/arial-bold/arial-bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/arial-bold/arial-bold.woff') format('woff'),
+    url('../fonts/arial-bold/arial-bold.ttf') format('truetype'),
+    url('../fonts/arial-bold/arial-bold.svg#pf_beausans_prothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PTsans-bold';
+    src: url('../fonts/PTsans-bold/PTsans-bold.eot');
+    src: url('../fonts/PTsans-bold/PTsans-bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/PTsans-bold/PTsans-bold.woff') format('woff'),
+    url('../fonts/PTsans-bold/PTsans-bold.ttf') format('truetype'),
+    url('../fonts/PTsans-bold/PTsans-bold.svg#pf_beausans_prothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTsans-reg';
+    src: url('../fonts/PTsans-reg/PTsans-reg.eot');
+    src: url('../fonts/PTsans-reg/PTsans-reg.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/PTsans-reg/PTsans-reg.woff') format('woff'),
+    url('../fonts/PTsans-reg/PTsans-reg.ttf') format('truetype'),
+    url('../fonts/PTsans-reg/PTsans-reg.svg#pf_beausans_prothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
